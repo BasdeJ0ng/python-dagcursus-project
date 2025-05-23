@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Output bestanden (als je die niet in Git wilt)
+ *.xlsx
+
+# Excel temporary files
+~$*.xlsx
+
+# Environment files (voor later als je met virtual environments werkt)
+.env
+venv/

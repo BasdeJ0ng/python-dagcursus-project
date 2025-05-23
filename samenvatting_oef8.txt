@@ -1,0 +1,4 @@
+Aantal personen per categorie:
+Jong: 2
+Midden: 1
+Ervaren: 2
