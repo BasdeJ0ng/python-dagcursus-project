@@ -6,7 +6,7 @@ __pycache__/
 .vscode/
 
 # Output bestanden (als je die niet in Git wilt)
- *.xlsx
+*.xlsx
 
 # Excel temporary files
 ~$*.xlsx
